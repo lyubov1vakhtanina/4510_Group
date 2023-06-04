@@ -5,4 +5,5 @@
 
 
 **4510_Group**
-GitHab -это сервис
+
+GitHab -это сервис компании Microsoft
